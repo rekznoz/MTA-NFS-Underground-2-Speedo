@@ -1,0 +1,17 @@
+<meta>
+    <info author="RekZ" name="NFSU2 Speedo" version="1.0.0" type="script" description="Velocimetro estilo Need for Speed: Underground 2 con velocidad digital, RPM, vida del vehiculo y nitro" />
+    <script src="client.lua" type="client" cache="false" />
+    
+    <file src="radial_fill.fx" />
+    <file src="img/boost-arrow.png" />
+    <file src="img/boost-background.png" />
+    <file src="img/boost-numbers.png" />
+    <file src="img/nos-background.png" />
+    <file src="img/nos-filled.png" />
+    <file src="img/shift.png" />
+    <file src="img/speedbreak-background.png" />
+    <file src="img/tach-arrow.png" />
+    <file src="img/tach-background.png" />
+    <file src="img/tach-numbers.png" />
+    <file src="img/tach-redline.png" />
+</meta>

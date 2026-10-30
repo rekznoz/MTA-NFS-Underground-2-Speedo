@@ -1,4 +1,4 @@
-# NFSU2_Speedo
+# MTA-NFS-Underground-2-Speedo-main
 
 Velocímetro de estilo Need for Speed: Underground 2 para MTA:SA, con velocidad digital, cuentarrevoluciones e indicadores de vida del vehículo y nitro.
 
@@ -11,9 +11,9 @@ Velocímetro de estilo Need for Speed: Underground 2 para MTA:SA, con velocidad 
 
 ## Activación
 
-1. Copia la carpeta completa `NFSU2_Speedo` en la carpeta `resources` de tu servidor.
-2. En la consola del servidor ejecuta `refresh` y después `start NFSU2_Speedo`.
-3. Para arrancar el recurso con el servidor, añade `<resource src="NFSU2_Speedo" startup="1" protected="0" />` en `mtaserver.conf`.
+1. Copia la carpeta completa `MTA-NFS-Underground-2-Speedo-main` en la carpeta `resources` de tu servidor.
+2. En la consola del servidor ejecuta `refresh` y después `start MTA-NFS-Underground-2-Speedo-main`.
+3. Para arrancar el recurso con el servidor, añade `<resource src="MTA-NFS-Underground-2-Speedo-main" startup="1" protected="0" />` en `mtaserver.conf`.
 
 El velocímetro está **activado por defecto** para cada jugador y aparece al entrar en un vehículo, también si el recurso se inicia cuando el jugador ya está dentro.
 
